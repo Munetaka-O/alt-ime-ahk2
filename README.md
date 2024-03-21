@@ -2,7 +2,7 @@
 
 ## 概要
 
-左右 Alt キーの空打ちで IME を OFF/ON する AutoHotKey2 用のスクリプトです。
+左右 Alt キーの空打ちで IME を OFF/ON する AutoHotKey2 用のスクリプトです。<BR>
 AutoHotKey v2 に対応した、IMEv2.ahkが必要です。
 
 * 左 Alt キーの空打ちで IME を「英数」に切り替え
